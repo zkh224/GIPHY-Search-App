@@ -2,6 +2,7 @@
   "name": "gif-search",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zkh224.github.io/react-gif-app/"
   "devDependencies": {
     "react-scripts": "4.0.3"
   },
