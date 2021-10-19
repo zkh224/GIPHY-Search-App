@@ -18,7 +18,7 @@ export default class App extends Component {
       
       this.performSearch();
       
-      {/*  React fetch method
+      /*  React fetch method
    
    fetch('https://api.giphy.com/v1/gifs/trending?api_key=7ithh0cef1oSHuf2IBugBYaJV9rI0xdN&limit=25&rating=G')
         .then(response => response.json())
@@ -30,7 +30,7 @@ export default class App extends Component {
             console.log('Error fetching data', error);
         });
         
-        */}
+        */
 
   }
   
