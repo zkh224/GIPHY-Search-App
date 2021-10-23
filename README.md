@@ -1,5 +1,5 @@
 # GIPHY-search-app
-Made this app as part of the tutorial from Treehouse React track. 
+Made this app while learning fetching GIPHY data and React hooks. 
 
 ## Requirements:
 Install [Node.js](https://nodejs.org/en/)
